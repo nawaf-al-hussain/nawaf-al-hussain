@@ -1,0 +1,23 @@
+name: README Aura
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'readme.source.md'
+  workflow_dispatch:
+
+jobs:
+  build-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run readme-aura
+        uses: collectioneur/readme-aura@v1
+        with:
+          source: readme.source.md
+          output: README.md
+          assets_dir: .github/assets
