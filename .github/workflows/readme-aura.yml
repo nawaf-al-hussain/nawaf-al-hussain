@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run readme-aura
-        uses: collectioneur/readme-aura@v1
+        uses: collectioneur/readme-aura@main
         with:
           source: readme.source.md
           output: README.md
