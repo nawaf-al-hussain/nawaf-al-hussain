@@ -20,6 +20,48 @@
 
 ---
 
+<!-- ── TROPHIES ── -->
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=nawaf-al-hussain&theme=discord&no-bg=true&no-frame=true&column=7&title_color=C9A44A&text_color=8B8B8B)
+
+</div>
+
+---
+
+<!-- ── STREAK SNAKE ── -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nawaf-al-hussain/nawaf-al-hussain/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nawaf-al-hussain/nawaf-al-hussain/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nawaf-al-hussain/nawaf-al-hussain/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- ── TOP LANGUAGES + ACTIVITY GRAPH ── -->
+
+<div align="center">
+
+### 📈 Top Languages & Activity
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaf-al-hussain&layout=compact&theme=github_dark&hide_border=true&title_color=C9A44A&text_color=8B8B8B&bg_color=0D0D0D&langs_count=8" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nawaf-al-hussain&bg_color=0D0D0D&color=C9A44A&line=C9A44A&point=8B8B8B&area=true&hide_border=true" width="48%" />
+
+</div>
+
+---
+
 <!-- ── CASE FILES: DECLASSIFIED ── -->
 
 ## 📁 Case Files — Declassified Missions
@@ -35,42 +77,42 @@
 
 ---
 
-<!-- ── ARSENAL: TECH STACK ── -->
+<!-- ── ARSENAL: TECH STACK BADGES ── -->
 
 ## 🛠️ The Arsenal
 
-<table>
-<tr>
-<td align="center" width="25%">
+<div align="center">
 
-### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=0D0D0D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=0D0D0D)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=0D0D0D)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=0D0D0D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D0D0D)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=0D0D0D)
 
-`Java` `TypeScript` `Python` `C#` `SQL` `JavaScript`
+<br/>
 
-</td>
-<td align="center" width="25%">
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0D0D0D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=C9A44A)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=0D0D0D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=0D0D0D)
 
-### Frontend
+<br/>
 
-`React` `Next.js` `Framer Motion` `Tailwind CSS` `HTML/CSS`
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=0D0D0D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=0D0D0D)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=0D0D0D)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=0D0D0D)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=C9A44A)
 
-</td>
-<td align="center" width="25%">
+<br/>
 
-### Backend & Infra
+![XGBoost](https://img.shields.io/badge/XGBoost-1A1A1A?style=for-the-badge&logo=xgboost&logoColor=C9A44A)
+![NLP](https://img.shields.io/badge/NLP-1A1A1A?style=for-the-badge&logo=probot&logoColor=C9A44A)
+![LoRA](https://img.shields.io/badge/LoRA/PEFT-1A1A1A?style=for-the-badge&logo=huggingface&logoColor=C9A44A)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=0D0D0D)
 
-`Spring Boot` `Node.js` `Docker` `Redis` `WebSocket/STOMP`
-
-</td>
-<td align="center" width="25%">
-
-### ML & Data
-
-`XGBoost` `NLP` `GGUF/LoRA` `PEFT` `KV-Cache`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
