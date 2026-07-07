@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=nawaf-al-hussain&theme=discord&no-bg=true&no-frame=true&column=7&title_color=C9A44A&text_color=8B8B8B)
+![Trophy](https://github-profile-trophy.vercel.app/?username=nawaf-al-hussain&theme=onestar&no-bg=true&no-frame=true&column=7)
 
 </div>
 
@@ -83,34 +83,27 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=0D0D0D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=0D0D0D)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=0D0D0D)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=0D0D0D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D0D0D)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=0D0D0D)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black)
 
 <br/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0D0D0D)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=C9A44A)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=0D0D0D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=0D0D0D)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black)
 
 <br/>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=0D0D0D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=0D0D0D)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=0D0D0D)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=0D0D0D)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=C9A44A)
-
-<br/>
-
-![XGBoost](https://img.shields.io/badge/XGBoost-1A1A1A?style=for-the-badge&logo=xgboost&logoColor=C9A44A)
-![NLP](https://img.shields.io/badge/NLP-1A1A1A?style=for-the-badge&logo=probot&logoColor=C9A44A)
-![LoRA](https://img.shields.io/badge/LoRA/PEFT-1A1A1A?style=for-the-badge&logo=huggingface&logoColor=C9A44A)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=0D0D0D)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black)
 
 </div>
 
@@ -122,7 +115,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🦇_BATCAVE-Visit_Site-C9A44A?style=for-the-badge&labelColor=0D0D0D)](https://nawaf-al-hussain.vercel.app)
+[![Portfolio](https://img.shields.io/badge/BATCAVE-VISIT_SITE-C9A44A?style=for-the-badge&labelColor=0D0D0D)](https://nawaf-al-hussain.vercel.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-Profile-8B8B8B?style=for-the-badge&logo=github&logoColor=C9A44A&labelColor=0D0D0D)](https://github.com/nawaf-al-hussain)
 [![Email](https://img.shields.io/badge/SIGNAL-Email-C0001A?style=for-the-badge&logo=gmail&logoColor=C9A44A&labelColor=0D0D0D)](mailto:nkhondokar2420136@bscse.uiu.ac.bd)
 
