@@ -20,13 +20,13 @@
 
 ---
 
-<!-- ── TROPHIES ── -->
-
-## 🏆 Trophies
+<!-- ── STREAK + TOP LANGUAGES ── -->
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=nawaf-al-hussain&theme=onestar&no-bg=true&no-frame=true&column=7)
+<img src="https://streak-stats.demolab.com?user=nawaf-al-hussain&theme=github-dark-blue&hide_border=true&background=0D0D0D&stroke=C9A44A&ring=C9A44A&fire=C9A44A&currStreakLabel=C9A44A&sideLabels=8B8B8B&dates=6B6B6B" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaf-al-hussain&layout=compact&theme=github_dark&hide_border=true&title_color=C9A44A&text_color=8B8B8B&bg_color=0D0D0D&langs_count=8" width="48%" />
 
 </div>
 
@@ -48,15 +48,13 @@
 
 ---
 
-<!-- ── TOP LANGUAGES + ACTIVITY GRAPH ── -->
+<!-- ── ACTIVITY GRAPH ── -->
+
+## 📈 Activity
 
 <div align="center">
 
-### 📈 Top Languages & Activity
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaf-al-hussain&layout=compact&theme=github_dark&hide_border=true&title_color=C9A44A&text_color=8B8B8B&bg_color=0D0D0D&langs_count=8" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nawaf-al-hussain&bg_color=0D0D0D&color=C9A44A&line=C9A44A&point=8B8B8B&area=true&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nawaf-al-hussain&bg_color=0D0D0D&color=C9A44A&line=C9A44A&point=8B8B8B&area=true&hide_border=true" width="95%" />
 
 </div>
 
