@@ -28,7 +28,7 @@
 
 | Case | Subject | Threat Vector | Status |
 |------|---------|---------------|--------|
-| **001** | 🦇 [**The Batcave Portfolio**](https://github.com/nawaf-al-hussain/batman) | Dark-themed portfolio with Detective Mode | ![Deployed](https://img.shields.io/badge/DEPLOYED-C9A44A?style=flat-square&labelColor=0D0D0D) |
+| **001** | 🦇 [**The Batcave Portfolio**](https://nawaf-al-hussain.vercel.app) | Dark-themed portfolio with Detective Mode | ![Deployed](https://img.shields.io/badge/DEPLOYED-C9A44A?style=flat-square&labelColor=0D0D0D) |
 | **002** | 💼 [**NexHire**](https://github.com/nawaf-al-hussain/NexHire) | AI-powered recruitment anti-ghosting engine | ![CLOSED](https://img.shields.io/badge/CLOSED-C9A44A?style=flat-square&labelColor=0D0D0D) |
 | **003** | 🎮 [**Game of Life 2**](https://github.com/nawaf-al-hussain/Game-of-life-2) | Real-time multiplayer board game engine | ![DEPLOYED](https://img.shields.io/badge/DEPLOYED-C9A44A?style=flat-square&labelColor=0D0D0D) |
 | **004** | 🔒 [**Conflict Check**](https://github.com/nawaf-al-hussain/Conflict-Check) | Database serializability solver | ![CLOSED](https://img.shields.io/badge/CLOSED-C9A44A?style=flat-square&labelColor=0D0D0D) |
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🦇_BATCAVE-Visit_Site-C9A44A?style=for-the-badge&labelColor=0D0D0D)](https://github.com/nawaf-al-hussain/batman)
+[![Portfolio](https://img.shields.io/badge/🦇_BATCAVE-Visit_Site-C9A44A?style=for-the-badge&labelColor=0D0D0D)](https://nawaf-al-hussain.vercel.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-Profile-8B8B8B?style=for-the-badge&logo=github&logoColor=C9A44A&labelColor=0D0D0D)](https://github.com/nawaf-al-hussain)
 [![Email](https://img.shields.io/badge/SIGNAL-Email-C0001A?style=for-the-badge&logo=gmail&logoColor=C9A44A&labelColor=0D0D0D)](mailto:nkhondokar2420136@bscse.uiu.ac.bd)
 
