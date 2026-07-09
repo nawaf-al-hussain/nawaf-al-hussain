@@ -12,11 +12,9 @@
 
 </div>
 
-<!--AURA_README_START-->
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawaf-al-hussain&show_icons=true&theme=github_dark&hide_border=true&title_color=C9A44A&icon_color=C9A44A&text_color=8B8B8B&bg_color=0D0D0D)
-<!--AURA_README_END-->
+![GitHub Stats](https://github-readme-stats-six-steel.vercel.app/api?username=nawaf-al-hussain&show_icons=true&theme=github_dark&hide_border=true&title_color=C9A44A&icon_color=C9A44A&text_color=8B8B8B&bg_color=0D0D0D)
 
 ---
 
@@ -26,7 +24,7 @@
 
 <img src="https://streak-stats.demolab.com?user=nawaf-al-hussain&theme=github-dark-blue&hide_border=true&background=0D0D0D&stroke=C9A44A&ring=C9A44A&fire=C9A44A&currStreakLabel=C9A44A&sideLabels=8B8B8B&dates=6B6B6B" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaf-al-hussain&layout=compact&theme=github_dark&hide_border=true&title_color=C9A44A&text_color=8B8B8B&bg_color=0D0D0D&langs_count=8" width="48%" />
+<img src="https://github-readme-stats-six-steel.vercel.app/api/top-langs/?username=nawaf-al-hussain&layout=compact&theme=github_dark&hide_border=true&title_color=C9A44A&text_color=8B8B8B&bg_color=0D0D0D&langs_count=8" width="48%" />
 
 </div>
 
